@@ -1,0 +1,162 @@
+{
+  "http://localhost:5000/yt": {
+    "shortcode": "http://localhost:5000/yt",
+    "url": "https://www.youtube.com",
+    "createdAt": "2025-09-08T05:35:10.966Z",
+    "expiry": "2025-09-08T05:45:10.966Z",
+    "clicks": 0,
+    "clickDetails": []
+  },
+  "http://localhost:5000/yttt": {
+    "shortcode": "http://localhost:5000/yttt",
+    "url": "https://www.youtube.com",
+    "createdAt": "2025-09-08T05:37:49.352Z",
+    "expiry": "2025-09-08T05:47:49.352Z",
+    "clicks": 0,
+    "clickDetails": []
+  },
+  "https://www.youtube.com": {
+    "shortcode": "https://www.youtube.com",
+    "url": "https://www.youtube.com",
+    "createdAt": "2025-09-08T05:38:58.858Z",
+    "expiry": "2025-09-08T05:48:58.858Z",
+    "clicks": 0,
+    "clickDetails": []
+  },
+  "ug5i36": {
+    "shortcode": "ug5i36",
+    "url": "https://www.youtube.com",
+    "createdAt": "2025-09-08T05:39:42.290Z",
+    "expiry": "2025-09-08T05:49:42.290Z",
+    "clicks": 1,
+    "clickDetails": [
+      {
+        "timestamp": "2025-09-08T05:39:44.352Z",
+        "ip": "::1"
+      }
+    ]
+  },
+  "ggg": {
+    "shortcode": "ggg",
+    "url": "https://www.google.com",
+    "createdAt": "2025-09-08T05:40:05.088Z",
+    "expiry": "2025-09-08T05:50:05.088Z",
+    "clicks": 1,
+    "clickDetails": [
+      {
+        "timestamp": "2025-09-08T05:40:06.984Z",
+        "ip": "::1"
+      }
+    ]
+  },
+  "odl3tk": {
+    "shortcode": "odl3tk",
+    "url": "https://www.youtube.com",
+    "createdAt": "2025-09-08T05:40:21.371Z",
+    "expiry": "2025-09-08T05:41:21.371Z",
+    "clicks": 1,
+    "clickDetails": [
+      {
+        "timestamp": "2025-09-08T05:40:26.983Z",
+        "ip": "::1"
+      }
+    ]
+  },
+  "sv3u6u": {
+    "shortcode": "sv3u6u",
+    "url": "https://www.youtube.com",
+    "createdAt": "2025-09-08T05:44:32.425Z",
+    "expiry": "2025-09-08T05:49:32.425Z",
+    "clicks": 0,
+    "clickDetails": []
+  },
+  "ytt": {
+    "shortcode": "ytt",
+    "url": "https://www.youtube.com",
+    "createdAt": "2025-09-08T05:46:40.995Z",
+    "expiry": "2025-09-08T05:49:40.995Z",
+    "clicks": 1,
+    "clickDetails": [
+      {
+        "timestamp": "2025-09-08T05:46:44.914Z",
+        "ip": "::1"
+      }
+    ]
+  },
+  "odxntm": {
+    "shortcode": "odxntm",
+    "url": "https://www.gmail.com",
+    "createdAt": "2025-09-08T05:47:51.210Z",
+    "expiry": "2025-09-08T07:27:51.210Z",
+    "clicks": 2,
+    "clickDetails": [
+      {
+        "timestamp": "2025-09-08T05:47:57.289Z",
+        "ip": "::1"
+      },
+      {
+        "timestamp": "2025-09-08T05:52:53.853Z",
+        "ip": "::1"
+      }
+    ]
+  },
+  "hyo8oo": {
+    "shortcode": "hyo8oo",
+    "url": "https://www.google.com",
+    "createdAt": "2025-09-08T05:51:33.357Z",
+    "expiry": "2025-09-08T05:52:33.357Z",
+    "clicks": 0,
+    "clickDetails": []
+  },
+  "git": {
+    "shortcode": "git",
+    "url": "https://www.github.com",
+    "createdAt": "2025-09-08T05:53:26.254Z",
+    "expiry": "2025-09-08T07:33:26.254Z",
+    "clicks": 3,
+    "clickDetails": [
+      {
+        "timestamp": "2025-09-08T05:53:32.637Z",
+        "ip": "::1"
+      },
+      {
+        "timestamp": "2025-09-08T05:53:38.678Z",
+        "ip": "::1"
+      },
+      {
+        "timestamp": "2025-09-08T05:53:45.210Z",
+        "ip": "::1"
+      }
+    ]
+  },
+  "u32ys0": {
+    "shortcode": "u32ys0",
+    "url": "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzQcpdnTpfMLfxBMfsvxbmFcgzMM",
+    "createdAt": "2025-09-08T06:01:48.461Z",
+    "expiry": "2025-09-08T06:13:48.461Z",
+    "clicks": 1,
+    "clickDetails": [
+      {
+        "timestamp": "2025-09-08T06:01:54.178Z",
+        "ip": "::1"
+      }
+    ]
+  },
+  "v2ahg6": {
+    "shortcode": "v2ahg6",
+    "url": "https://www.youtube.com",
+    "createdAt": "2025-09-08T06:25:00.745Z",
+    "expiry": "2025-09-08T06:26:00.745Z",
+    "clicks": 2,
+    "clickDetails": [
+      {
+        "timestamp": "2025-09-08T06:25:07.991Z",
+        "ip": "::1"
+      },
+      {
+        "timestamp": "2025-09-08T06:25:13.622Z",
+        "ip": "::1"
+      }
+    ]
+  }
+}
