@@ -1,17 +1,17 @@
 
 ---
 
-## 🖼️ Screenshots
+## *Screenshots*
 
-### 🔗 URL Shortener Page
+### - URL Shortener Page
 ![Shortener Page](screenshots/shortener.png)
 
-### 📊 Stats Page
+### - Stats Page
 ![Stats Page](screenshots/stats.png)
 
 ---
 
-## ⚡ Installation & Usage
+##  Installation & Usage
 
 1. Clone the repository  
    ```bash
